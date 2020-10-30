@@ -6,6 +6,12 @@ header{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+.watermarked{
+  background-image: url("http://placehold.it/100x100/09f/fff.png");
+  position: relative;
+  left: 30px;
+  opacity: 0.5;
+}
 
 body{
     padding: 10px;
