@@ -7,7 +7,7 @@ header{
     background-size: 100%;
 }
 .watermarked{
-  background-image: url("http://placehold.it/100x100/09f/fff.png");
+  background-image: url("IPL.jpeg");
   position: relative;
   left: 30px;
   opacity: 0.5;
