@@ -7,7 +7,7 @@ header{
     background-size: 100%;
 }
 .watermarked{
-  background-image: url("IPL.jpeg");
+  background-image: url("ipl.jpeg");
   position: relative;
   left: 30px;
   opacity: 0.5;
