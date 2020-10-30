@@ -1,7 +1,7 @@
 header{
     background-color: #000000;
     padding: 30px;
-    background-image: url("ipl.jpeg");
+    background-image: url("");
     background-color: #ABCDFE;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -46,8 +46,8 @@ nav a{
     color: #000000;
     display: inline-block;
     margin: auto 1.2%;
-    width :22%;
-    height: 5%;
+    width :15%;
+    height: 2%;
     border-radius: 5px;
     text-decoration: none;
     padding: 2% 0%;
