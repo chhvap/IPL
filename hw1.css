@@ -22,7 +22,7 @@ h1{
 h2{
     color: #000000;
 }
-<!--
+
 .left {
     background-color: #808000;
     width: 24%;
@@ -41,12 +41,12 @@ h2{
     width: 80%;
     margin: 10%;
 }
--->
+
 nav a{
     color: #000000;
     display: inline-block;
     margin: auto 1.2%;
-    width :30%;
+    width :50%;
     height: 5%;
     border-radius: 5px;
     text-decoration: none;
