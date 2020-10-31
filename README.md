@@ -5,9 +5,10 @@
 </nav>	</header>		<main><marquee>Sunday 2nd match contest (KKR VS RR) replaced with picks</marquee>	<marquee>Entry fee and playoff rules announced</marquee> <marquee><a href="results.html">RR VS KXIP Match Winner: Achuyth(683pts)</a></marquee>	<!--	<aside class = "left">		<a href="https://commons.wikimedia.org/wiki/File%3AUltimate_Frisbee%2C_Jul_2009_-_17.jpg"><img src="ipl.jpeg" alt="DREAM 11 Photo" title="By Ed Yourdon [CC BY-SA 2.0 (http://creativecommons.org/licenses/by-sa/2.0)], via Wikimedia Commons"/> 			<a href="https://commons.wikimedia.org/wiki/File%3AUltimate_Frisbee_Colorado_Cup_2005.jpg"><img alt="Ultimate Frisbee Colorado Cup 2005" src="DREAM 11/512px-Ultimate_Frisbee_Colorado_Cup_2005.jpg"/></a> 			<a href="https://www.flickr.com/photos/paradisecoastie/15409853738/" title="Ultimate Frisbee"><img src="dream 11" alt="Ultimate Frisbee">  </a>		</aside>		<section class = "right"> 	-->   <h2>Playoffs Rules</h2>	<p>Total 5 contests are conducted dream team, player battles,picks, orange cap, purple cap</p>	<p>The rules for 1st three are known .For orange cap , purple cap the points of every batsman and bowlers in 5 playoff matches will be considered respectively.the player having high pts in batsman will get orange cap and with high bowlers will get purple cap (all rounders are not considered) <!-- <a href = "htpp://http://www.usaultimate.org/index.html">USA Ultimate</a>.</p>	<p>Other than professional tournaments, games of Ultimate are typically played without referess. Instead, players rely on "The Spirit of the Game" to encourage sportsmanship and self-officiating.</p>	<h2>Sources</h2> 	<ul>		<li><a href = "https://en.wikipedia.org/wiki/Ultimate_(sport)">Ultimate (sport)</a></li>		<li><a href = "http://www.wfdf.org/">World Flying Disc Federation</a></li>	</ul>	</section></main></body></html> -->
  	<h2>Managed by harsh securities</h2>
   
- <div>
-  <div class="flashlinkedimg" id="incricketlivescore"><object type="application/x-shockwave-flash" width="300" height="173" data="http://kaw.stb00.s-msn.com/i/E3/761A5134CF447D5D49BAF338EE03C.swf" id="incricketlivescoreObj"><param name="wmode" value="transparent"><param name="quality" value="high"><param name="movie" value="http://kaw.stb00.s-msn.com/i/E3/761A5134CF447D5D49BAF338EE03C.swf"></object></param></param></param></div>
-</div>
+ <script>
+  app="www.cricwaves.com"; mo="f1_zd"; tor =""; mtype ="";  wi="{{wi}}"; Width="302px"; Height="252px";  co ="ban"; 
+
+ </script><script type="text/javascript" src="http://www.cricwaves.com/cricket/widgets/script/scoreWidgets.js"></script>
 
  
  <!--This is comment-->
