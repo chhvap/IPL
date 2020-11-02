@@ -9,7 +9,7 @@
   app="www.cricwaves.com"; mo="f1_zd"; tor =""; mtype ="";  wi="{{wi}}"; Width="302px"; Height="252px";  co ="ban"; 
 
  </script><script type="text/javascript" src="http://www.cricwaves.com/cricket/widgets/script/scoreWidgets.js"></script>
-footer>&copy; Copyright 2020 Harsh Securities <br> In association with IPLt20, nostragamus.com</footer>
+<footer>&copy; Copyright 2020 Harsh Securities <br> In association with IPLt20, nostragamus.com</footer>
 
  
  <!--This is comment-->
