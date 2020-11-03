@@ -37,19 +37,7 @@ h2{
     padding: 5% 0%;
 }
 
-.right {
-    color: #000000;
-    display: inline-block;
-    margin: auto 1.2%;
-    width :50%;
-    height: 5%;
-    border-radius: 5px;
-    text-decoration: none;
-    padding: 2% 0%;
-    text-align: center;
-float:right;
-    background-color: rgba(255,255,255,0.25);
-}
+
 
 .left img {
     border: solid 2px #000000;
