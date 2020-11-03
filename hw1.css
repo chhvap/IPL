@@ -45,7 +45,7 @@ h2{
 
 nav a{
     color: #000000;
-    display: inline-block;
+    display:block;
     margin: auto 1.2%;
     width :50%;
     height: 5%;
