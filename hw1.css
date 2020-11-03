@@ -38,9 +38,16 @@ h2{
 }
 
 .right {
-    width:74%;
+    color: #000000;
     display: inline-block;
-    padding-left: 2%;
+    margin: auto 1.2%;
+    width :50%;
+    height: 5%;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 2% 0%;
+    text-align: center;
+    background-color: rgba(255,255,255,0.25);
 }
 
 .left img {
@@ -58,6 +65,7 @@ nav a{
     border-radius: 5px;
     text-decoration: none;
     padding: 2% 0%;
+float:right;
     text-align: center;
     background-color: rgba(255,255,255,0.25);
 }
