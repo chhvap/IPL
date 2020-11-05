@@ -6,6 +6,6 @@
  	<center><h2>Live Score</h2></center>
 <iframe src="https://www.iplt20.com/match/2020/57" height="500" title="W3Schools Free Online Web Tutorials"></iframe>
  
- <img src="logo.jpg" alt="points" height="50" width="50"/> <h2>Managed by harsh securities</h2><body style="background-color:yellow;">
+  <h2><img src="logo.jpg" alt="points" height="50" width="50"/>Managed by harsh securities</h2><body style="background-color:yellow;">
 
  <!--This is comment-->
