@@ -1,0 +1,33 @@
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>biggboss</title>
+<h2>Big Boss voting </h2>
+<script>
+function getVote(int) {
+  var xmlhttp=new XMLHttpRequest();
+  xmlhttp.onreadystatechange=function() {
+    if (this.readyState==4 && this.status==200) {
+      document.getElementById("poll").innerHTML=this.responseText;
+    }
+  }
+  xmlhttp.open("GET","poll_vote.php?vote="+int,true);
+  xmlhttp.send();
+}
+</script>
+</head>
+<body>
+
+<div id="poll">
+<h3>vote your contestants?</h3>
+<form>
+Abhijit <input type="radio" name="vote" value="0" onclick="getVote(this.value)"><br>
+Sohel <input type="radio" name="vote" value="1" onclick="getVote(this.value)"><br>
+Aryana<input type="radio" name="vote" value="2" onclick="getVote(this.value)"><br>
+Monal<input type="radio" name="vote" value="3" onclick="getVote(this.value)"><br>
+Harika<input type="radio" name="vote" value="4" onclick="getVote(this.value)">
+</form>
+</div>
+
+</body>
+</html>
