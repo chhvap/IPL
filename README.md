@@ -2,7 +2,7 @@
 <head>	<meta charset="UTF-8">	<title>IPL MEGA CONTEST</title>	<link rel="stylesheet" href="hw1.css"></head> <body>	<header>		<h1>IPL2021 MEGA CONTEST</h1>		<nav>	<a href="ipl2020.html" target="_blank">IPL 2020 RESULTS</a>	<!--	<a href="https://forms.gle/mczXrjHcqdau1axeA">Dream Team</a>			<a href="https://forms.gle/6smHzV1oLd6g9uyLA">Player Battles</a>			<a href="https://forms.gle/iNTuaGbmmnDQzx57A">Picks</a>			<a href="orangecap.html" target="_blank">Orange cap</a>
 	<a href="purplecap.html" target="_blank">purple cap</a>
 	<a href="wallet.html" target="_blank">wallet balance</a>-->
-</nav>	</header>		<main> <center><h2><p>you tube logo launch</p></h2></center><br><center><button><a href="youtube.html">logo</a></button></center><!--<marquee><h5>IPL 2021 contest is going to start from 9 April 2021 </h5></marquee><br>
+</nav>	</header>		<main> <center><h2><p>you tube logo launch</p></h2></center><br><center><button><a href="youtube.html" target="_blank">logo</a></button></center><!--<marquee><h5>IPL 2021 contest is going to start from 9 April 2021 </h5></marquee><br>
 <p>IPL 2020 website will be reset (wallet balance continue from same) kindly check on 2020 results</p>
 <center><button><a href="IPL2021details.html">IPL 2021 details</a></button></center>
 <!--	<marquee><a href="bigboss.html">MI VS DC picks winner:Hema & Achuyth(56pts); player battles winner : achuyth(473pts)</a> </marquee> <marquee><a href="results.html">MI VS DC Match winner:Achuyth(466.5pts)</a></marquee>	
