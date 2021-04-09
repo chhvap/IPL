@@ -1,8 +1,9 @@
 
-<head>	<meta charset="UTF-8">	<title>IPL MEGA CONTEST</title>	<link rel="stylesheet" href="hw1.css"></head> <body>	<header>		<h1>IPL2021 MEGA CONTEST</h1>		<nav>		<a href="https://forms.gle/mczXrjHcqdau1axeA">Dream Team</a>			<a href="https://forms.gle/6smHzV1oLd6g9uyLA">Player Battles</a>			<a href="https://forms.gle/iNTuaGbmmnDQzx57A">Picks</a>			<a href="orangecap.html" target="_blank">Orange cap</a>
+<head>	<meta charset="UTF-8">	<title>IPL MEGA CONTEST</title>	<link rel="stylesheet" href="hw1.css"></head> <body>	<header>		<h1>IPL2021 MEGA CONTEST</h1>		<nav>		<a href="https://forms.gle/mczXrjHcqdau1axeA">Dream Team</a>			<--<a href="https://forms.gle/6smHzV1oLd6g9uyLA">Player Battles</a>			<a href="https://forms.gle/iNTuaGbmmnDQzx57A">Picks</a>	--!>		<a href="orangecap.html" target="_blank">Orange cap</a>
 	<a href="purplecap.html" target="_blank">purple cap</a>
 	<a href="wallet.html" target="_blank">wallet balance</a>
-</nav>	</header>		<main><marquee><h5>IPL 2021 contest is going to start from 9 April 2021 </h5></marquee><br>
+</nav>	</header>		<main><marquee><h5>IPL 2021 contest dream team link closes at 7:30pm,9 April 2021 </h5>
+<p><h5>players can select bowler and batsman for orange and purple cap in dream team link</h5></p></marquee><br>
 <center><button><a href="IPL2021details.html">IPL 2021 details</a></button></center>
 <!--<marquee><a href="bigboss.html">MI VS DC picks winner:Hema & Achuyth(o pts); player battles winner : achuyth(473pts)</a> </marquee> <marquee><a href="results.html">MI VS DC Match winner:Achuyth(466.5pts)</a></marquee>	
 <br><h5><center>WINNERS<br> IPL 2020 winner: Mumbai Indians<br><br>IPL 2020 mega contest winner:Achuyth(Rs182.5)<br><br>purple cap winner:Achuyth(600pts)<br>orange cap winner:Sunil(875pts)<br></center></h5>-->
