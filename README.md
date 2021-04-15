@@ -3,7 +3,7 @@
 	<a href="purplecap.html" target="_blank">purple cap</a>
 	<a href="wallet.html" target="_blank">wallet balance</a>
 </nav>	</header>		<main><marquee><h5>IPL 2021 contest dream team link closes at 7:30pm </h5>
-<a href="results.html">MI VS KKR Match winner:ACHUYTH(749pts)</a></marquee><br>
+<a href="results.html">SRH VS RCB Match winner:ACHUYTH(834.5pts)</a></marquee><br>
 <center><button><a href="IPL2021details.html">IPL 2021 details</a></button></center>
 <!--<marquee><a href="bigboss.html">MI VS DC picks winner:Hema & Achuyth(o pts); player battles winner : achuyth(473pts)</a> </marquee>	
 <br><h5><center>WINNERS<br> IPL 2020 winner: Mumbai Indians<br><br>IPL 2020 mega contest winner:Achuyth(Rs182.5)<br><br>purple cap winner:Achuyth(600pts)<br>orange cap winner:Sunil(875pts)<br></center></h5>-->
