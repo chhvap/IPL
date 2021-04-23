@@ -3,7 +3,7 @@
 	<a href="purplecap.html" target="_blank">purple cap</a>
 	<a href="wallet.html" target="_blank">wallet balance</a>
 </nav>	</header>		<main><marquee><h5>IPL 2021 contest dream team link closes at 7:30pm </h5>
-<a href="results.html">CSK VS KKR Match winner:ACHUYTH(797pts)</a>
+<a href="results.html">RCB VS RR Match winner:ACHUYTH(609pts)</a>
 <br><a href="match2.html">SRH VS PBKS Match winner:ACHUYTH(509pts)</a></marquee><br>
 <center><button><a href="IPL2021details.html">IPL 2021 details</a></button></center>
 <!--<marquee><a href="bigboss.html">MI VS DC picks winner:Hema & Achuyth(o pts); player battles winner : achuyth(473pts)</a> </marquee>	
